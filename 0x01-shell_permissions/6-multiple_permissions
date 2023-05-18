@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+# The file hello will be in the working directory
+
+chmod ug+x hello
+chmod o+r hello
