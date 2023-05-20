@@ -2,5 +2,9 @@
 
 # Create a script that adds execute permission to all subdirectories of the current directory for the
 # owner, the group owner and all other users. Regular files should not be changed.
-find ./ -type d -exec chmod 755 {} \;
 
+# Get the current directory
+current_dir=$(pwd)
+
+# Find all subdirectories recursively and add execute permission
+find "$current_dir" -type d -exec chmod +x {} \;
