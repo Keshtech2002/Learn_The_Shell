@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 keshtech keshtech 4096 Jun  5 17:23 .
+drwxr-xr-x 6 keshtech keshtech 4096 May 26 11:56 ..
+-rwxr-xr-x 1 keshtech keshtech  130 May 26 12:05 0-hello_world
+-rwxr-xr-x 1 keshtech keshtech   88 May 26 12:19 1-confused_smiley
+-rwxr-xr-x 1 keshtech keshtech   83 Jun  5 14:00 2-hellofile
+-rwxr-xr-x 1 keshtech keshtech   93 Jun  5 14:02 3-twofiles
+-rwxr-xr-x 1 keshtech keshtech   86 Jun  5 14:13 4-lastlines
+-rwxr-xr-x 1 keshtech keshtech   87 Jun  5 14:30 5-firstlines
+-rwxr-xr-x 1 keshtech keshtech  153 Jun  5 14:47 6-third_line
+-rwxr-xr-x 1 keshtech keshtech  231 Jun  5 15:19 7-file
+-rwxr-xr-x 1 keshtech keshtech  256 Jun  5 17:23 8-cwd_state
+-rw-r--r-- 1 keshtech keshtech   12 Jun  5 15:20 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 keshtech keshtech  801 Jun  5 14:34 iacta
+-rw-r--r-- 1 keshtech keshtech    0 Jun  5 17:23 ls_cwd_content
